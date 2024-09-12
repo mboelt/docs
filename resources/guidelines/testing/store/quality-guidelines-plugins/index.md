@@ -114,10 +114,8 @@ However, it is difficult to read and understand the compiled code.
 To ensure that the code remains accessible to all developers, the uncompiled version of the JavaScript code must be placed in a separate folder.
 This allows other developers to review and understand the code in its original, readable form.
 
-* We want to improve the quality of the Shopware Community Store and offer as many different apps as possible.
-Hence, we check for a functional comparison with other apps already in the Shopware Community store, in the Rise edition, or above.
-If there is an app with the same function, it can be rejected as it doesn't provide any added value.
-For further information, write an email to [alliances@shopware.com](mailto:alliances@shopware.com).
+* We want to improve the quality of the Shopware Community Store and offer as many different apps as possible. Hence, we check for a functional comparison with other apps already in the Shopware Community store, in the Rise edition or above. If there is an app with the same function, it can be rejected as it doesn't fit into one of our four differentiator clusters for Shopware extensions. If you would like more information, please write an email to [alliances@shopware.com](mailto:alliances@shopware.com).
+* [Differentiator cluster for Shopware store extensions](https://developer.shopware.com/docs/resources/guidelines/testing/Differentiator-Clusters.html)
 
 ::: info
 **Safe your app idea and get a preview in the store** - If you already have an idea and don't want it to be snatched away, then make sure you get it by creating a preview in your account.
